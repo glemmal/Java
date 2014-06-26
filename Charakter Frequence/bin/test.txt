@@ -1,0 +1,3 @@
+Dies ist mein Testfile.
+Ich werde dieses einlesen.
+Natuerlich mit Carriage return.
